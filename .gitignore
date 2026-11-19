@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+reports/*.png
+reports/cleanliness_*.csv
+reports/cleanliness_*.md

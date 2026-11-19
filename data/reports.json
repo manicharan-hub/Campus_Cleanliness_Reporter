@@ -1,0 +1,402 @@
+[
+  {
+    "id": "CLR-0001",
+    "date": "2026-11-16",
+    "location": "Main Block - Ground Floor",
+    "category": "Blocked Drain",
+    "severity": 3,
+    "description": "Drain is blocked and water is collecting",
+    "status": "Open",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0002",
+    "date": "2026-10-29",
+    "location": "Science Block",
+    "category": "Litter",
+    "severity": 1,
+    "description": "Waste left near the staircase",
+    "status": "In Progress",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0003",
+    "date": "2026-11-13",
+    "location": "Boys Hostel",
+    "category": "Litter",
+    "severity": 5,
+    "description": "Waste left near the staircase",
+    "status": "Open",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0004",
+    "date": "2026-10-30",
+    "location": "Science Block",
+    "category": "Blocked Drain",
+    "severity": 4,
+    "description": "Drain is blocked and water is collecting",
+    "status": "In Progress",
+    "reported_by": "Faculty"
+  },
+  {
+    "id": "CLR-0005",
+    "date": "2026-10-23",
+    "location": "Main Block - Ground Floor",
+    "category": "Other",
+    "severity": 2,
+    "description": "Area requires inspection",
+    "status": "In Progress",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0006",
+    "date": "2026-10-26",
+    "location": "Auditorium",
+    "category": "Overflowing Dustbin",
+    "severity": 1,
+    "description": "Dustbin is full and waste is spilling out",
+    "status": "In Progress",
+    "reported_by": "Faculty"
+  },
+  {
+    "id": "CLR-0007",
+    "date": "2026-11-08",
+    "location": "Washrooms - Main Block",
+    "category": "Other",
+    "severity": 3,
+    "description": "General cleanliness issue reported",
+    "status": "Resolved",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0008",
+    "date": "2026-10-21",
+    "location": "Sports Ground",
+    "category": "Litter",
+    "severity": 1,
+    "description": "Waste left near the staircase",
+    "status": "Open",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0009",
+    "date": "2026-10-22",
+    "location": "Auditorium",
+    "category": "Food Waste",
+    "severity": 5,
+    "description": "Leftover food scattered around tables",
+    "status": "Resolved",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0010",
+    "date": "2026-11-12",
+    "location": "Girls Hostel",
+    "category": "Blocked Drain",
+    "severity": 1,
+    "description": "Drain is blocked and water is collecting",
+    "status": "Resolved",
+    "reported_by": "Faculty"
+  },
+  {
+    "id": "CLR-0011",
+    "date": "2026-11-05",
+    "location": "Auditorium",
+    "category": "Unclean Washroom",
+    "severity": 2,
+    "description": "Wash basin area is unhygienic",
+    "status": "In Progress",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0012",
+    "date": "2026-10-28",
+    "location": "Library",
+    "category": "Unclean Washroom",
+    "severity": 5,
+    "description": "Washroom floor needs cleaning",
+    "status": "In Progress",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0013",
+    "date": "2026-11-05",
+    "location": "Sports Ground",
+    "category": "Overflowing Dustbin",
+    "severity": 3,
+    "description": "Dustbin is full and waste is spilling out",
+    "status": "Resolved",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0014",
+    "date": "2026-10-24",
+    "location": "Main Block - Ground Floor",
+    "category": "Overflowing Dustbin",
+    "severity": 3,
+    "description": "Bin has not been cleared since yesterday",
+    "status": "Open",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0015",
+    "date": "2026-10-22",
+    "location": "Auditorium",
+    "category": "Food Waste",
+    "severity": 2,
+    "description": "Food waste attracting insects",
+    "status": "In Progress",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0016",
+    "date": "2026-11-15",
+    "location": "Girls Hostel",
+    "category": "Water Leakage",
+    "severity": 2,
+    "description": "Water leaking from a tap",
+    "status": "Resolved",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0017",
+    "date": "2026-10-27",
+    "location": "Washrooms - Main Block",
+    "category": "Unclean Washroom",
+    "severity": 4,
+    "description": "Wash basin area is unhygienic",
+    "status": "In Progress",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0018",
+    "date": "2026-11-04",
+    "location": "Library",
+    "category": "Food Waste",
+    "severity": 1,
+    "description": "Leftover food scattered around tables",
+    "status": "Open",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0019",
+    "date": "2026-10-29",
+    "location": "Sports Ground",
+    "category": "Other",
+    "severity": 5,
+    "description": "General cleanliness issue reported",
+    "status": "In Progress",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0020",
+    "date": "2026-11-03",
+    "location": "Girls Hostel",
+    "category": "Water Leakage",
+    "severity": 5,
+    "description": "Water leaking from a tap",
+    "status": "Resolved",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0021",
+    "date": "2026-10-22",
+    "location": "Science Block",
+    "category": "Blocked Drain",
+    "severity": 3,
+    "description": "Bad smell coming from the drain",
+    "status": "Open",
+    "reported_by": "Faculty"
+  },
+  {
+    "id": "CLR-0022",
+    "date": "2026-11-05",
+    "location": "Main Block - Ground Floor",
+    "category": "Overflowing Dustbin",
+    "severity": 3,
+    "description": "Dustbin is full and waste is spilling out",
+    "status": "In Progress",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0023",
+    "date": "2026-10-30",
+    "location": "Girls Hostel",
+    "category": "Other",
+    "severity": 5,
+    "description": "General cleanliness issue reported",
+    "status": "Open",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0024",
+    "date": "2026-10-26",
+    "location": "Science Block",
+    "category": "Food Waste",
+    "severity": 1,
+    "description": "Food waste attracting insects",
+    "status": "In Progress",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0025",
+    "date": "2026-10-22",
+    "location": "Girls Hostel",
+    "category": "Unclean Washroom",
+    "severity": 2,
+    "description": "Washroom floor needs cleaning",
+    "status": "Open",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0026",
+    "date": "2026-11-17",
+    "location": "Parking Area",
+    "category": "Litter",
+    "severity": 1,
+    "description": "Waste left near the staircase",
+    "status": "Resolved",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0027",
+    "date": "2026-11-04",
+    "location": "Science Block",
+    "category": "Blocked Drain",
+    "severity": 2,
+    "description": "Bad smell coming from the drain",
+    "status": "In Progress",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0028",
+    "date": "2026-11-13",
+    "location": "Science Block",
+    "category": "Water Leakage",
+    "severity": 2,
+    "description": "Continuous water seepage near the wall",
+    "status": "In Progress",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0029",
+    "date": "2026-11-08",
+    "location": "Parking Area",
+    "category": "Blocked Drain",
+    "severity": 5,
+    "description": "Bad smell coming from the drain",
+    "status": "Open",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0030",
+    "date": "2026-11-09",
+    "location": "Main Block - Ground Floor",
+    "category": "Litter",
+    "severity": 5,
+    "description": "Waste left near the staircase",
+    "status": "Open",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0031",
+    "date": "2026-11-17",
+    "location": "Main Block - Ground Floor",
+    "category": "Litter",
+    "severity": 2,
+    "description": "Paper and wrappers scattered near the entrance",
+    "status": "Resolved",
+    "reported_by": "Faculty"
+  },
+  {
+    "id": "CLR-0032",
+    "date": "2026-11-03",
+    "location": "Boys Hostel",
+    "category": "Litter",
+    "severity": 3,
+    "description": "Waste left near the staircase",
+    "status": "In Progress",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0033",
+    "date": "2026-10-27",
+    "location": "Washrooms - Main Block",
+    "category": "Overflowing Dustbin",
+    "severity": 5,
+    "description": "Bin has not been cleared since yesterday",
+    "status": "Open",
+    "reported_by": "Faculty"
+  },
+  {
+    "id": "CLR-0034",
+    "date": "2026-11-06",
+    "location": "Boys Hostel",
+    "category": "Other",
+    "severity": 1,
+    "description": "General cleanliness issue reported",
+    "status": "Resolved",
+    "reported_by": "Faculty"
+  },
+  {
+    "id": "CLR-0035",
+    "date": "2026-11-06",
+    "location": "Parking Area",
+    "category": "Water Leakage",
+    "severity": 1,
+    "description": "Water leaking from a tap",
+    "status": "Open",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0036",
+    "date": "2026-10-25",
+    "location": "Library",
+    "category": "Unclean Washroom",
+    "severity": 2,
+    "description": "Washroom floor needs cleaning",
+    "status": "Open",
+    "reported_by": "Faculty"
+  },
+  {
+    "id": "CLR-0037",
+    "date": "2026-11-06",
+    "location": "Canteen",
+    "category": "Overflowing Dustbin",
+    "severity": 3,
+    "description": "Bin has not been cleared since yesterday",
+    "status": "Open",
+    "reported_by": "Student"
+  },
+  {
+    "id": "CLR-0038",
+    "date": "2026-10-25",
+    "location": "Science Block",
+    "category": "Water Leakage",
+    "severity": 1,
+    "description": "Water leaking from a tap",
+    "status": "Resolved",
+    "reported_by": "Housekeeping Team"
+  },
+  {
+    "id": "CLR-0039",
+    "date": "2026-11-19",
+    "location": "Library",
+    "category": "Other",
+    "severity": 2,
+    "description": "General cleanliness issue reported",
+    "status": "In Progress",
+    "reported_by": "Faculty"
+  },
+  {
+    "id": "CLR-0040",
+    "date": "2026-10-23",
+    "location": "Sports Ground",
+    "category": "Overflowing Dustbin",
+    "severity": 1,
+    "description": "Dustbin is full and waste is spilling out",
+    "status": "In Progress",
+    "reported_by": "Faculty"
+  }
+]

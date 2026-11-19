@@ -1,0 +1,41 @@
+id,date,location,category,severity,description,status,reported_by
+CLR-0001,2026-11-16,Main Block - Ground Floor,Blocked Drain,3,Drain is blocked and water is collecting,Open,Housekeeping Team
+CLR-0002,2026-10-29,Science Block,Litter,1,Waste left near the staircase,In Progress,Student
+CLR-0003,2026-11-13,Boys Hostel,Litter,5,Waste left near the staircase,Open,Student
+CLR-0004,2026-10-30,Science Block,Blocked Drain,4,Drain is blocked and water is collecting,In Progress,Faculty
+CLR-0005,2026-10-23,Main Block - Ground Floor,Other,2,Area requires inspection,In Progress,Student
+CLR-0006,2026-10-26,Auditorium,Overflowing Dustbin,1,Dustbin is full and waste is spilling out,In Progress,Faculty
+CLR-0007,2026-11-08,Washrooms - Main Block,Other,3,General cleanliness issue reported,Resolved,Housekeeping Team
+CLR-0008,2026-10-21,Sports Ground,Litter,1,Waste left near the staircase,Open,Housekeeping Team
+CLR-0009,2026-10-22,Auditorium,Food Waste,5,Leftover food scattered around tables,Resolved,Student
+CLR-0010,2026-11-12,Girls Hostel,Blocked Drain,1,Drain is blocked and water is collecting,Resolved,Faculty
+CLR-0011,2026-11-05,Auditorium,Unclean Washroom,2,Wash basin area is unhygienic,In Progress,Housekeeping Team
+CLR-0012,2026-10-28,Library,Unclean Washroom,5,Washroom floor needs cleaning,In Progress,Student
+CLR-0013,2026-11-05,Sports Ground,Overflowing Dustbin,3,Dustbin is full and waste is spilling out,Resolved,Student
+CLR-0014,2026-10-24,Main Block - Ground Floor,Overflowing Dustbin,3,Bin has not been cleared since yesterday,Open,Student
+CLR-0015,2026-10-22,Auditorium,Food Waste,2,Food waste attracting insects,In Progress,Housekeeping Team
+CLR-0016,2026-11-15,Girls Hostel,Water Leakage,2,Water leaking from a tap,Resolved,Housekeeping Team
+CLR-0017,2026-10-27,Washrooms - Main Block,Unclean Washroom,4,Wash basin area is unhygienic,In Progress,Student
+CLR-0018,2026-11-04,Library,Food Waste,1,Leftover food scattered around tables,Open,Student
+CLR-0019,2026-10-29,Sports Ground,Other,5,General cleanliness issue reported,In Progress,Housekeeping Team
+CLR-0020,2026-11-03,Girls Hostel,Water Leakage,5,Water leaking from a tap,Resolved,Student
+CLR-0021,2026-10-22,Science Block,Blocked Drain,3,Bad smell coming from the drain,Open,Faculty
+CLR-0022,2026-11-05,Main Block - Ground Floor,Overflowing Dustbin,3,Dustbin is full and waste is spilling out,In Progress,Student
+CLR-0023,2026-10-30,Girls Hostel,Other,5,General cleanliness issue reported,Open,Student
+CLR-0024,2026-10-26,Science Block,Food Waste,1,Food waste attracting insects,In Progress,Student
+CLR-0025,2026-10-22,Girls Hostel,Unclean Washroom,2,Washroom floor needs cleaning,Open,Housekeeping Team
+CLR-0026,2026-11-17,Parking Area,Litter,1,Waste left near the staircase,Resolved,Student
+CLR-0027,2026-11-04,Science Block,Blocked Drain,2,Bad smell coming from the drain,In Progress,Housekeeping Team
+CLR-0028,2026-11-13,Science Block,Water Leakage,2,Continuous water seepage near the wall,In Progress,Housekeeping Team
+CLR-0029,2026-11-08,Parking Area,Blocked Drain,5,Bad smell coming from the drain,Open,Student
+CLR-0030,2026-11-09,Main Block - Ground Floor,Litter,5,Waste left near the staircase,Open,Student
+CLR-0031,2026-11-17,Main Block - Ground Floor,Litter,2,Paper and wrappers scattered near the entrance,Resolved,Faculty
+CLR-0032,2026-11-03,Boys Hostel,Litter,3,Waste left near the staircase,In Progress,Housekeeping Team
+CLR-0033,2026-10-27,Washrooms - Main Block,Overflowing Dustbin,5,Bin has not been cleared since yesterday,Open,Faculty
+CLR-0034,2026-11-06,Boys Hostel,Other,1,General cleanliness issue reported,Resolved,Faculty
+CLR-0035,2026-11-06,Parking Area,Water Leakage,1,Water leaking from a tap,Open,Housekeeping Team
+CLR-0036,2026-10-25,Library,Unclean Washroom,2,Washroom floor needs cleaning,Open,Faculty
+CLR-0037,2026-11-06,Canteen,Overflowing Dustbin,3,Bin has not been cleared since yesterday,Open,Student
+CLR-0038,2026-10-25,Science Block,Water Leakage,1,Water leaking from a tap,Resolved,Housekeeping Team
+CLR-0039,2026-11-19,Library,Other,2,General cleanliness issue reported,In Progress,Faculty
+CLR-0040,2026-10-23,Sports Ground,Overflowing Dustbin,1,Dustbin is full and waste is spilling out,In Progress,Faculty
